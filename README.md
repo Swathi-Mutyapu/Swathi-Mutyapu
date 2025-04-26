@@ -1,6 +1,6 @@
 
 #### Hi there👋, My name is Swathi Mutyapu. 
-#### I love helping people see and understand data by making using of 
+#### I love helping people see and understand data by making use of 
 #### - SQL
 #### - Alteryx 
 #### - Databricks 
